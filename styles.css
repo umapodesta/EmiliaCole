@@ -1,0 +1,150 @@
+
+
+/*music*/
+
+fa-solid fa-play {
+    list-style: initial;
+}
+#body {
+    background-image: url("../img/about.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    height: 800;
+    background-position: right;
+    
+    
+}
+
+*/ 
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+director {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#emi {
+    color: rgb(68, 70, 70);
+font-family: 'Work Sans', sans-serif;
+}
+
+m_emi {
+    color: rgb(68, 70, 70);
+font-family: 'Work Sans', sans-serif;
+}
+
+#body2 {
+    background-image: url("../img/home.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    height: 700;
+    background-position: right;
+}
+
+.emilia {
+    font-family: 'Work Sans', sans-serif;
+}
+.lista {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.titulos {
+    font-family: 'Raleway', sans-serif;
+    background-image: url(./img/img/home.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: ghostwhite;
+    padding: 100px;
+    text-align: left;
+    position: relative;
+    padding-top: 100%;
+   min-height: fit-content;
+  
+}
+       
+.lista {
+    font-family: 'Open Sans', sans-serif;
+}
+.music {
+    font-family: 'Raleway', sans-serif;
+}
+.twist {
+    font-family: 'Raleway', sans-serif;
+}
+.album {
+    font-family: 'Raleway', sans-serif;
+}
+.puntos {
+    font-family: 'Open Sans', sans-serif;
+    size: 10%;
+}
+
+.lista {
+    font-family: 'Open Sans', sans-serif;
+}
+.emilia {
+    font-family: 'Work Sans', sans-serif;
+    width: 60px;
+    color: dimgray;
+}
+
+.info {
+    font-family: 'Open Sans', sans-serif;
+    color: lightseagreen;
+    background-color: ghostwhite;
+    background-image: url(./img/img/about.jpg);
+    padding: 400px;
+    background-repeat: no-repeat;
+    margin: 0%;
+    padding-left: 6%;
+    padding-top: 60%;
+    padding-right: 30%;
+    
+}
+
+
+
+.fotoemilia {
+    height: 400px;
+}
+
+.lista {
+    font-family: 'Open Sans', sans-serif;
+}
+.album {
+        font-family: 'Raleway', sans-serif;
+    }
+
+.reference {
+    font-family: 'Open Sans', sans-serif;
+    color: lightseagreen;
+}
+
+.data {
+    font-family: 'Open Sans', sans-serif;
+    color: black; 
+    font-weight:bolder
+}
+
+.menos {
+    font-weight: lighter;
+}
+
+.John {
+  background-color:honeydew;
+  
+}
