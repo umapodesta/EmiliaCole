@@ -1,0 +1,37 @@
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+   
+    font-family: 'Raleway', sans-serif
+}
+
+h1 {
+    
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.lista {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.reference {
+    font-family: 'Open Sans', sans-serif;
+    color: lightseagreen;
+}
+.album {
+    font-family: 'Raleway', sans-serif;
+}
+
+.data {
+    font-family: 'Open Sans', sans-serif;
+    color: black; 
+    font-weight:bolder
+}
+
+.menos {
+    font-weight: lighter;
+}

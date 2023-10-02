@@ -1,0 +1,40 @@
+.lista {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.contenedor {
+    display: flex;
+    width: 100%;
+    height: 100%;
+
+
+}
+.NOMBRE {
+    display: flex;
+    align-items: center;
+    font-family: 'Work Sans', sans-serif;
+    color: dimgray;
+    font-size: 30px;
+    
+}
+
+.ALBUM {
+    position: absolute;
+    font-family: 'Raleway', sans-serif;
+    padding-top: 40%;
+    font-size: 30px;
+    justify-content: flex-end;
+
+}
+
+.tir {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+}
+
+.IMG {
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    height: 80%;
+}
